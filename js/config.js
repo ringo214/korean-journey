@@ -7,5 +7,5 @@ const CONFIG = {
   // Cloudflare Worker のURL（手順書 SETUP.md の手順3で取得したもの）
   // 例: "https://korean-correction.あなたの名前.workers.dev"
   // 空のままだと添削機能だけオフになる（他は全部動く）
-  WORKER_URL: "",
+  WORKER_URL: "https://korean-correction.r-h-love12250214.workers.dev/",
 };
